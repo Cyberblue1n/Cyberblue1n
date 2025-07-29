@@ -1,16 +1,16 @@
 <img align="Center" alt="banner" widht="500" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif">
 <h1 align="center">Hi 👋, I'm Nilanjan</h1>
-<h3 align="center">I am currently pursuing my B.Tech in Computer Science Engineering from the University of Engineering and Management, Kolkata. I really love to solve problems regarding coding and want to learn about the bugs and errors that are encountering🤔. Currently, I am learning the way of app development using Flutter, machine learning using Scikit-learn, which is Python's library, and cybersecurity. I also have some hands-on experience with shell scripting, Linux, computer networks (Cisco Packet Tracer), computer vision with OpenCV, Arduino, and DSA. My hobbies include playing mobile games or cricket 🏏with my friends and making pretty handy crafts. I keep the repositories of sharing my coding journey and what I learned. You can check those if you want😊. Thanks for visiting🤞.</h3>
+<h3 align="center">I am currently pursuing my B.Tech in Computer Science Engineering from the University of Engineering and Management, Kolkata. I really love to solve problems regarding coding and want to learn about the bugs and errors that are encountering🤔. Currently, I am learning Artificial Intelligence, Machine Learning, Deep learning and Data Science and Analytics and also basic cybersecurity. I also have some hands-on experience with shell scripting, Linux, computer networks (Cisco Packet Tracer), DSA. My hobbies include playing mobile games and cricket 🏏with my friends and making pretty handy crafts. I keep the repositories of sharing my coding journey and what I learned. You can check those if you want😊. Thanks for visiting🤞.</h3>
 <p align ="center"><img alt="coding" width="1000" height="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberblue1n&label=Profile%20views&color=0e75b6&style=flat" alt="cyberblue1n" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberblue1n" alt="cyberblue1n" /></a> </p>
 
-- 🌱 I’m currently learning **App development, Machine Learning & Cybersecurity**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python, Machine Learning & Cybersecurity**
+- 💬 Ask me about **Python, Machine Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a-qUBGZpiANVOgKiZekJmsn3_4IN2GJ_/view?usp=drive_link](https://drive.google.com/file/d/1a-qUBGZpiANVOgKiZekJmsn3_4IN2GJ_/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pPUDbM6cUO94VesLHgW00MfI3DNKTW2N/view?usp=sharing](https://drive.google.com/file/d/1pPUDbM6cUO94VesLHgW00MfI3DNKTW2N/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
